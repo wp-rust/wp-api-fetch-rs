@@ -1,0 +1,11 @@
+[package]
+name = "wp-api-fetch-rs"
+version = "0.1.1"
+edition = "2024"
+description = "Rust port of WordPress/Elementor package wp-api-fetch-rs"
+license = "GPL-2.0"
+
+[dependencies]
+reqwest = { version = "0.11", features = ["json"] }
+serde_json = "1"
+serde = { version = "1", features = ["derive"] }

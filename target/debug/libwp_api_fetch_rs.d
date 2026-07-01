@@ -1,0 +1,1 @@
+/Users/bhubbard/PROJECTS/elementor-to-blocks/packages/wp-api-fetch-rs/target/debug/libwp_api_fetch_rs.rlib: /Users/bhubbard/PROJECTS/elementor-to-blocks/packages/wp-api-fetch-rs/target/package/wp-api-fetch-rs-0.1.1/src/lib.rs
